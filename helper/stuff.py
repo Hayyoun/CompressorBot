@@ -33,7 +33,6 @@ async def start(event):
         buttons=[
             [Button.inline("HELP", data="ihelp")],
             [
-                Button.url("MY CHANNEL", url="t.me/dramakokp"),
                 Button.url("DEVELOPER", url="t.me/Halokv"),
             ],
         ],
@@ -60,7 +59,6 @@ async def beck(event):
         buttons=[
             [Button.inline("HELP", data="ihelp")],
             [
-                Button.url("MY CHANNEL", url="t.me/dramakokp"),
                 Button.url("DEVELOPER", url="t.me/Halokv"),
             ],
         ],
